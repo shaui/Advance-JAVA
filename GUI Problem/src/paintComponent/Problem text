@@ -1,0 +1,6 @@
+改寫部分 : Line : 29,30,41~45
+
+Problem1 : 為何視窗伸縮，或是最大最小化，我所畫的東西就會不見，只剩下最後一個點?是否因為視窗改變時要更新面板，所以JPanel的paintComponent會自動執行，然後再執行我所Override的paintComponent。
+Problem2 : super.paintComponent 是重新畫一層空白的覆蓋上去，還是清除掉所有畫在上面的東西?
+Problem3 : 如果不寫 super.paintComponent雖然也可以運作，但是這樣是否代表我一直重複畫之前已經畫過的點?
+Problem4 : 我真的不太了解呼叫super.paintComponent的原因，還有repaint()中會呼叫到的update()是做甚麼的?網路上查不太清楚。

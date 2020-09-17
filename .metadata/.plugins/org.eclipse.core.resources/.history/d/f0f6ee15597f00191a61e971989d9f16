@@ -1,0 +1,24 @@
+package day2;
+
+public class HD {
+
+	int cost = 0;
+	HD(int size){
+		if(size == 10) {
+			cost = 2000;
+		}
+		else if(size == 15) {
+			cost = 2500;
+		}
+		else if(size == 17){
+			cost = 3000;
+		}
+		else {
+			cost = 0;
+		}
+	}
+	
+	private int getCost(int size) {
+		return cost;
+	}
+}

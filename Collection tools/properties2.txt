@@ -1,0 +1,7 @@
+#Properties test
+#Wed Nov 14 15:50:54 CST 2018
+id4=Shaui
+id3=Zour
+ad2=Zour
+id1=OGsin
+bd3=Zoue

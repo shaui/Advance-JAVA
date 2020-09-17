@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Cards.java&apos; to &apos;File Utility/src/serialize_tool&apos;&#x0D;&#x0A;- 原始物件：&apos;Collection tools&apos;&#x0D;&#x0A;- 目的地元素：&apos;File Utility/src/serialize_tool&apos;&#x0D;&#x0A;- 原始元素：&apos;comparators.Cards.java&apos;" description="複製編譯單元" destination="=File Utility/src&lt;serialize_tool" element1="/src&lt;comparators{Cards.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1540559569690" units="1" version="1.0"/>
+</session>

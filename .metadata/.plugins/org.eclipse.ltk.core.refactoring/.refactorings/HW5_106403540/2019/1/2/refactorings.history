@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="將 &apos;irritating_maze&apos; 套件複製至 &apos;HW Test/src&apos;&#x0D;&#x0A;- 原始物件：&apos;HW5_106403540&apos;&#x0D;&#x0A;- 目的地元素：&apos;HW Test/src&apos;&#x0D;&#x0A;- 原始元素：&apos;HW5_106403540/src/irritating_maze&apos;" description="複製套件" destination="=HW Test/src" element1="/src&lt;irritating_maze" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1547023412242" version="1.0"/>
+</session>

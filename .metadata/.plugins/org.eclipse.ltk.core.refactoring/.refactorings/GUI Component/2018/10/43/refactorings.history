@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ScreenSize.java&apos; to &apos;HW3_106403540/src/postTool&apos;&#x0D;&#x0A;- 原始物件：&apos;GUI Component&apos;&#x0D;&#x0A;- 目的地元素：&apos;HW3_106403540/src/postTool&apos;&#x0D;&#x0A;- 原始元素：&apos;main.ScreenSize.java&apos;" description="複製編譯單元" destination="=HW3_106403540/src&lt;postTool" element1="/src&lt;main{ScreenSize.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1540563393791" units="1" version="1.0"/>
+</session>

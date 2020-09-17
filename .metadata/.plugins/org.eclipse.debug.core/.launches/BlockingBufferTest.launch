@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Concurrency Ex/src/Fig23_14_15/BlockingBufferTest.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Fig23_14_15.BlockingBufferTest"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Concurrency Ex"/>
+</launchConfiguration>

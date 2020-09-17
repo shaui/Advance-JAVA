@@ -1,0 +1,3 @@
+改寫部分  Line : 18,28,45,48,52
+Problem 1 : 為何要特別用一個Container? JFrame應該有繼承他的方法吧? 直接改變Layout後validate()好像也可以。
+Problem 2 : revalidate()是否是當 Layout為null時，且位置/高度/寬度改變時，調用來重新繪製版面的?

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Problem&apos; to &apos;Eception Problem/src/fig15_3&apos;&#x0D;&#x0A;- 原始物件：&apos;Eception Problem&apos;&#x0D;&#x0A;- 目的地元素：&apos;Eception Problem/src/fig15_3&apos;&#x0D;&#x0A;- 原始元素：&apos;Problem&apos;&#x0D;&#x0A;- 更新對已重構元素的參照" description="移動檔案" destination="/src&lt;fig15_3" element1="Problem" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1539424387933" units="0" version="1.0"/>
+</session>

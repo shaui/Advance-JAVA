@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;BigInteger.java&apos; to &apos;TT/src/bigInteger&apos;&#x0D;&#x0A;- 原始物件：&apos;TT&apos;&#x0D;&#x0A;- 目的地元素：&apos;TT/src/bigInteger&apos;&#x0D;&#x0A;- 原始元素：&apos;BigInteger.java&apos;" description="複製編譯單元" destination="/src&lt;bigInteger" element1="/src&lt;{BigInteger.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1553857787006" units="1" version="1.0"/>
+</session>

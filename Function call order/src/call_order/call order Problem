@@ -1,0 +1,2 @@
+Line : Btn_Panel:53~61 ; PaintPanel2 : 260;
+Problem : 為何Btn_Panel中的Painter_Frame.paint_pane.repaint()沒有先被呼叫到?而是先呼叫他下面的System.out.println(123);

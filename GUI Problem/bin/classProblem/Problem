@@ -1,0 +1,4 @@
+Problem1 : ClassName.this 和 ClassName.class.this 差在哪?(為何後者不能運行)  ButtonFrame的 Line:47
+Problem2 : 直接寫ClassName 和寫 ClassName.class 差在哪
+Problem3 : Object.getClass()時，會拿到一個記憶體位置?Class不是沒有佔記憶體位置?
+Problem4 : ButtonFrame的 Line:47 他有設定showMessageDialog的第一個參數，只是外框還是沒改變。

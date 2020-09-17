@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="將 &apos;fig12_34_35&apos; 套件移至 &apos;Lab_Painter/src&apos;&#x0D;&#x0A;- 原始物件：&apos;PaintComponent Problem&apos;&#x0D;&#x0A;- 目的地元素：&apos;Lab_Painter/src&apos;&#x0D;&#x0A;- 原始元素：&apos;PaintComponent Problem/src/fig12_34_35&apos;&#x0D;&#x0A;- 更新對已重構元素的參照" description="移動套件" destination="=Lab_Painter/src" element1="/src&lt;fig12_34_35" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1538278007698" version="1.0"/>
+</session>

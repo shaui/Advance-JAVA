@@ -1,0 +1,5 @@
+Line : 36
+
+Problem1 : 這是我在實驗把所有Component在外面做好，然後一次放進來Main，只要把他們互相add進對的地方就可以呈現。因為我希望可以先做好一些Component特定的模板，之後要用時只要new一個新的然後在做微調就好了。
+			問題就是，為何我們平常呼叫innerClass時可以直接new近來用，而在static main()裡面卻要先指定自己的外層Class，是因為static?還是main()?
+Problem2 :　像這樣在static main()這種靜態方法中new一個物件，這個物件算是靜態成員?	

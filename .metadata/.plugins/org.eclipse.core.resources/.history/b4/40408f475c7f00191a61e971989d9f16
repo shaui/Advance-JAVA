@@ -1,0 +1,22 @@
+package day2;
+
+public class PC {
+	int cost = 0;
+	
+	public PC() {
+		CPU c = new CPU(2.4);
+		HD h = new HD("160G");
+		
+		cost = c.getCost() + h.getCost();
+		
+	}
+	
+	public int getCost() {
+		return cost + 500;
+	}
+	
+	public double getPrice() {
+		return cost*1.8;
+	}
+	
+}

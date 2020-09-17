@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 0 packages to &apos;Temp/src&apos;&#x0D;&#x0A;- 目的地元素：&apos;Temp/src&apos;" description="複製套件" destination="=Temp/src" flags="589830" fragments="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1543067360436" version="1.0"/>
+</session>

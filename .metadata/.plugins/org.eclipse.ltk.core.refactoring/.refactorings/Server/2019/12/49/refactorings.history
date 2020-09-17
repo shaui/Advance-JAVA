@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="將 &apos;shaui.server&apos; 套件複製至 &apos;Server_GUI/src&apos;&#x0D;&#x0A;- 原始物件：&apos;Server&apos;&#x0D;&#x0A;- 目的地元素：&apos;Server_GUI/src&apos;&#x0D;&#x0A;- 原始元素：&apos;Server/src/shaui.server&apos;" description="複製套件" destination="=Server_GUI/src" element1="/src&lt;shaui.server" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1575280111055" version="1.0"/>
+</session>

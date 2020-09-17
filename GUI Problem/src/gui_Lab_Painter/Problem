@@ -1,0 +1,4 @@
+改寫自PaintPabel Line : 52
+
+Problem1 : 為何當我畫完第一次再畫第二次時，畫面會跑出之前畫的東西和上面並非我所畫的部份的Panel?上面的Panel應該不會有影響吧?
+Problem2 : 沒有呼叫super.paintComponent()的話背景設定似乎就跑不出來，是否是因為我Override了paintComponent()後系統本來會自動呼叫的super.paintComponent()就沒被呼叫到了?

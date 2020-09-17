@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="workingset_selection_history">
+		<item value="Android Server"/>
+	</list>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="489" key="DIALOG_X_ORIGIN"/>
+		<item value="38" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="-1" key="dialogHeight"/>
+		<item value="-1" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.jdt.internal.ui.fatjarpackager.JarPackageWizard" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
+		<item value="org.eclipse.ui.wizards.import.ExternalProject" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.Java"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID"/>
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\Jonathan\Desktop\隨便寫的.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\FinalQ3_106403540_陳志剛.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\FinalQ2_106403540_陳志剛.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\FinalQ1_106403540_陳志剛.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\HW6_106403540_陳志剛.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\HW5_106403540_陳志剛.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\HW5_TEST.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\期中考訂正Q2_106403540_陳志剛.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\期中考訂正Q3_106403540_陳志剛.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\期中考訂正Q1_106403540_陳志剛.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\HW4Q2_106403540_陳志剛.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\HW4Q1_106403540_陳志剛.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\Maze.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\MidQ3_106403540_陳志剛.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\MidQ2_106403540_陳志剛.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\MidQ1_106403540_陳志剛.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\HW3_106403540_陳志剛.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\HW2_106403540_陳志剛.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\HW1_106403540_陳志剛.zip"/>
+			<item value="C:\Users\Jonathan\Desktop\Advance Java\HW1_106403540_陳志剛.zip"/>
+		</list>
+	</section>
+</section>

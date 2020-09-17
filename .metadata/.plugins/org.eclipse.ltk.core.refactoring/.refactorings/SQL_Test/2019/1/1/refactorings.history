@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="將 &apos;addressbook_example&apos; 套件複製至 &apos;JDBC Ex/src&apos;&#x0D;&#x0A;- 原始物件：&apos;SQL_Test&apos;&#x0D;&#x0A;- 目的地元素：&apos;JDBC Ex/src&apos;&#x0D;&#x0A;- 原始元素：&apos;SQL_Test/src/addressbook_example&apos;" description="複製套件" destination="=JDBC Ex/src" element1="/src&lt;addressbook_example" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1546504284650" version="1.0"/>
+</session>

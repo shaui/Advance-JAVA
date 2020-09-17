@@ -1,0 +1,4 @@
+The world is very easy.
+Win?  
+Lose?
+Or Draw. 

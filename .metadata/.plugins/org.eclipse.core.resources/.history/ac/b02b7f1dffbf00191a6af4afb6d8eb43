@@ -1,0 +1,29 @@
+package connection_service;
+
+import java.util.Scanner;
+
+public class Server {
+
+	private boolean isServerClose = false;
+	private Thread scanCommandThread = new Thread(() -> {
+					Scanner s = new Scanner(System.in);
+					System.out.println("Enter \"strat\" to start the server.");
+					while(!isServerClose) {
+						String cmd = s.nextLine();
+						String[] args = cmd.split(" ");
+						switch(args.length) {
+							case 0:
+								
+								break;
+							case 1:
+								break;
+							case 2:
+								break;
+						}
+					}
+				}
+			);
+	public Server() {
+		
+	}
+}

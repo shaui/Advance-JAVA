@@ -1,0 +1,22 @@
+package day2;
+
+public class MiniNote {
+
+	int cost = 0;
+	
+	public MiniNote(int l_size, double c_size, String h_size){
+		LCD l = new LCD(l_size);
+		CPU c = new CPU(c_size);
+		HD h = new HD(h_size);
+		
+		cost = l.getCost() + c.getCost() + h.getCost();	
+	}
+	
+	public double getCost() {
+		return cost*1.4;
+	}
+	
+	public int getPrice() {
+		return cost*2;
+	}
+}

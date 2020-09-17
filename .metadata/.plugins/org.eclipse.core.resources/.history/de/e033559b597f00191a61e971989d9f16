@@ -1,0 +1,19 @@
+package day2;
+
+public class HD {
+
+	private int cost = 0;
+	public HD(String size){
+		if(size == "120G") {
+			cost = 2400;
+		}
+		else if(size == "160G") {
+			cost = 2800;
+		}
+		
+	}
+	
+	public int getCost(int size) {
+		return cost;
+	}
+}

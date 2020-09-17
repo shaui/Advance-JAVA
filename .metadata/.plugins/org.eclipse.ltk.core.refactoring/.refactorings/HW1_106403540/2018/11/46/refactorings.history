@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="將 &apos;HW1_106403540_陳志剛&apos; 套件複製至 &apos;Q1/src&apos;&#x0D;&#x0A;- 原始物件：&apos;HW1_106403540&apos;&#x0D;&#x0A;- 目的地元素：&apos;Q1/src&apos;&#x0D;&#x0A;- 原始元素：&apos;HW1_106403540/src/HW1_106403540_陳志剛&apos;" description="複製套件" destination="=Q1/src" element1="/src&lt;HW1_106403540_陳志剛" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1542009325000" version="1.0"/>
+</session>

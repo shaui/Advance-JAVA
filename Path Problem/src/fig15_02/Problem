@@ -1,0 +1,3 @@
+Line : 21
+problem1 : 路徑如何直接從package開始找?我都只能從比src外面一層的目錄開始找
+problem2 : Absolute path: D:\eclipseJAVA\File Example\.\src\fig15_02\FileAndDirectoryInfo.java 中間那個"."是甚麼意思

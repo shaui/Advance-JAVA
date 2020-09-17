@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="將 &apos;gui_Lab_Painter&apos; 套件複製至 &apos;HW2_106403540/src&apos;&#x0D;&#x0A;- 原始物件：&apos;GUI Component&apos;&#x0D;&#x0A;- 目的地元素：&apos;HW2_106403540/src&apos;&#x0D;&#x0A;- 原始元素：&apos;GUI Component/src/gui_Lab_Painter&apos;" description="複製套件" destination="=HW2_106403540/src" element1="/src&lt;gui_Lab_Painter" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1539493578154" version="1.0"/>
+</session>

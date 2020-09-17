@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\Jonathan\Desktop\ncu_mis_sa-master"/>
+		<item value="C:\Users\Jonathan\Desktop\Course\ncu_mis_sa-master"/>
+		<item value="D:\eclipseJAVA\BoardGame\src"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\Jonathan\Desktop\Server\workspace\Server_alpha1.0"/>
+			<item value="C:\Users\Jonathan\Desktop\Server\workspace\Command_alpha1.0"/>
+			<item value="C:\Users\Jonathan\Desktop\Server\workspace\Client_alpha1.0"/>
+			<item value="C:\Users\Jonathan\Desktop\HW2_106403540_陳志剛"/>
+			<item value="C:\Users\Jonathan\Desktop\HW1_106403540_陳志剛"/>
+			<item value="C:\Users\Jonathan\Desktop\HW1_106403515_陳正育"/>
+			<item value="C:\Users\Jonathan\Desktop\Advance Java\HW1_106403540_陳志剛\HW1_106403540"/>
+			<item value="C:\Users\Jonathan\Desktop\Advance Java\HW1_106403540_陳志剛\HW1_106403540_1"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.views.markers.FiltersConfigurationDialog">
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="525" key="DIALOG_WIDTH"/>
+		<item value="1|Microsoft JhengHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft JhengHei UI" key="DIALOG_FONT_NAME"/>
+		<item value="580" key="DIALOG_HEIGHT"/>
+		<item value="429" key="DIALOG_X_ORIGIN"/>
+		<item value="8" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
